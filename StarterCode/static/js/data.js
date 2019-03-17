@@ -130,7 +130,7 @@ var data = [{
     state: "ca",
     country: "us",
     shape: "other",
-    durationMinutes: "30 minuets",
+    durationMinutes: "30 minutes",
     comments: "Objects in sky over Antioch California 12:03AM January 1&#44  2010"
   },
   {
